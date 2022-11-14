@@ -15,8 +15,8 @@ body {
 
 button{
     background-color: #FDFDFD;
-    color: #102F5E;
-    border: 2px solid #102F5E;
+    color: #4d3677;
+    border: 2px solid #4d3677;
     padding: 0.3rem 0.6rem;
     font-size: 1rem;
     cursor: pointer;
@@ -28,7 +28,7 @@ button{
 }
 
 button:hover{
-    background-color: #102F5E;
+    background-color: #4d3677;
     color: #fff;
 }
 
@@ -39,14 +39,17 @@ button:hover > i{
 
 
 button i{
-    color: #102F5E;
+    color: #4d3677;
     font-weight: bold;
     pointer-events: none;
+    
     
 }
 
 input, select{
     padding: 0.25rem 0.5rem;
+    border-color: #4d3677;
+    
 }
 
 
@@ -66,7 +69,7 @@ input, select{
 
 .todo-container header{
     text-align: center;
-    padding: 0 1rem 1rem;
+    padding: 0 2rem 1rem;
     border-bottom: 1px solid #ccc;
 }
 
@@ -90,12 +93,19 @@ input, select{
 
 .form-control input{
     margin-right: 0.3rem;
+   
 }
 
 
 #cancel-edit-btn{
     margin-top: 1rem;
     color: #444;
+}
+
+
+#cancel-edit-btn:hover{
+    margin-top: 1rem;
+    color: #fff;
 }
 
 
@@ -117,7 +127,7 @@ input, select{
     margin-right: 1rem;
     width: 65%;
     display: flex;
-    flex-direction: column;
+    flex-direction: column
 }
 
 
@@ -167,7 +177,7 @@ input, select{
 
 
 .done{
-    background-color: #395169;
+    background-color: #4d3677;
 }
 
 .done h3{
