@@ -78,6 +78,22 @@
 <br>
 <br>
 
+## 🤝 Colaborador
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+         <img src="https://avatars.githubusercontent.com/u/89953265?v=4" width="100px;" alt="Foto de Davi Afonso no GitHub"/><br>
+        <sub>
+          <b>Davi Afonso</b>
+        </sub>
+      </a>
+    </td>
+</table>
+
+<br>
+
  ``` OBS: Veja o video demonstrativo do projeto na pasta Video ``` 
 
 
